@@ -1,0 +1,12 @@
+h1 {
+  margin: 3%;
+  text-align: center;
+}
+
+.wordPuzzle {
+  margin: 5%;
+}
+
+#wordPuzzle {
+  display: none;
+}
